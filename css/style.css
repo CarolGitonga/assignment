@@ -36,4 +36,20 @@ h2{
 p{
 	font-size: large;
 }
-    
+.site-contact-details, .site-contact-details li {
+	padding: 0;
+	margin: 0; 
+}
+  
+  .site-contact-details li {
+	list-style: none;
+	margin-bottom: 20px; 
+}
+	.site-contact-details li > span {
+	  color: #0a0368;
+	  letter-spacing: .1em;
+	  font-size: 12px;
+	  font-weight: 500;
+	  margin-bottom: 5px;
+	  display: block;
+	 }
