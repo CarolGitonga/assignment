@@ -1,0 +1,40 @@
+.container{
+	font-family: 'Poiret One', cursive;
+	background-color: solid rgba(85, 136, 18, 0.849);
+}
+#major{
+	background-image: url("https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2015/10/responsive-design-1200x601.jpg");
+	height: 670px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-top: 10px;
+}
+#me{
+	padding: 25px;
+	margin-left: 200px;
+}
+h1 {
+	font-size: 35px;
+	margin-top: 25px;
+
+}
+h3{
+	color: black;
+	font-size: 25px;
+}
+#picture{
+	margin-left: 850px;
+	margin-top: -200px;
+}
+h2{
+	text-align: center;
+	color: rgb(12, 12, 136);
+	margin-top: 2px;
+	font-size: 45px;
+}
+
+p{
+	font-size: large;
+}
+font-family: 'Poppins', sans-serif;
+    
