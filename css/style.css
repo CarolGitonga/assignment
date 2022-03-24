@@ -5,11 +5,12 @@
 }
 #major{
 	background-image: url('../images/portfolio.jpeg');
-	height: 600px;
+	height: 680px;
 	width: 100%;
 	background-size: cover;
 	background-repeat: no-repeat;
-	margin-top: 10px;
+	background-position: center;
+	/* margin-top: 10px; */
 }
 #myname{
 	padding: 25px;
