@@ -57,4 +57,19 @@ p{
 	 p {
 		 font-size: 22px;
 	 }
-	 
+	 footer .row {
+		width: 70%;
+		padding: 30px 20px 10px 20px;
+		margin: auto;
+		justify-content: center;
+	}
+	
+	footer img {
+		width: 45px;
+		
+	}
+	
+	footer h5 {
+		font-size: 12px;
+		line-height: 15px;
+	}
