@@ -54,6 +54,7 @@ p{
 	  margin-bottom: 5px;
 	  display: block;
 	 }
-	 #about {
-		 font-size: larger;
+	 p {
+		 font-size: 22px;
 	 }
+	 
