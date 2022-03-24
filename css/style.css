@@ -1,6 +1,6 @@
 
 .container{
-	font-family: 'Poiret One', cursive;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	background-color: solid rgba(85, 136, 18, 0.849);
 }
 #major{
@@ -53,4 +53,7 @@ p{
 	  font-weight: 500;
 	  margin-bottom: 5px;
 	  display: block;
+	 }
+	 #about {
+		 font-size: larger;
 	 }
